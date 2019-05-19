@@ -6,10 +6,357 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25f54a6c-54a1-4058-a694-453288503941" name="Default" comment="">
+    <list default="true" id="25f54a6c-54a1-4058-a694-453288503941" name="Default" comment="123">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/ElasticSearchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/utils/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fdfs_client.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-security.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/chargeStore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/charge.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/cssreset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/goods-detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/search-goods.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/TIM截图20190508144514.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/login1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/miaosha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/register.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/秒杀.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/approve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/dizhi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/ft-ser1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/ft-ser2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/ft-ser3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/ft-ser4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/ft-sina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/ft-weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/header-sch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/order-success.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/tel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/topper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-aq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-dizhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-order1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-order2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-order3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-order4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/uc-qianbao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/ico/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/login/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/login/pwd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/login/qq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/login/sina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/login/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/login/weixin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/login/zp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/minus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/plus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/shopd-minus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/shopd-plus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bxslider/images/bx_loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bxslider/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bxslider/jquery.bxslider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bxslider/jquery.bxslider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bxslider/vendor/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bxslider/vendor/jquery.fitvids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/icheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/radio2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/_all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/flat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/flat@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/flat/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/futurico/futurico.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/futurico/futurico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/futurico/futurico@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/_all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/line.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/line@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/line/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/_all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/minimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/minimal@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/minimal/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/polaris/polaris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/polaris/polaris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/polaris/polaris@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/_all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/square.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/square@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/skins/square/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/sty1-a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/sty1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/icheck/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/jquery.cxselect.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/need/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/dahong/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/dahong/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/molv/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/molv/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/yalan/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/laydate/skins/yalan/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/extend/layer.ext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/mobile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/skin/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/layer/skin/layer.ext.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/scrollbar/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/scrollbar/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/scrollbar/jquery.mCustomScrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/scrollbar/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/scrollbar/mCSB_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/banner-dq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/banner-sxtc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/ercode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/uploads/nav-ad.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemCatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemCatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemCatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemCatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index-2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/jquery-2.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/linzhw/crud/controller/ItemCatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/linzhw/crud/controller/ItemCatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/linzhw/crud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/linzhw/crud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/linzhw/crud/service/ItemCatService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/linzhw/crud/service/ItemCatService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/com/linzhw/crud/controller/ItemCatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/com/linzhw/crud/controller/ItemCatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/com/linzhw/crud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/com/linzhw/crud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/com/linzhw/crud/service/ItemCatService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/com/linzhw/crud/service/ItemCatService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/index-2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud/static/js/jquery-2.0.0.min.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,113 +380,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MapperTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/MapperTest.java">
+      <file leaf-file-name="cart.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/cart.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="chargeStore.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/chargeStore.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-672">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/global.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.cxselect.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/jquery.cxselect.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MvcTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/MvcTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Msg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/Msg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbBrand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/TbBrand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsDescController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/GoodsDescController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+              <caret line="3" column="5868" selection-start-line="3" selection-start-column="5868" selection-end-line="3" selection-end-column="5868" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderController.java">
+      <file leaf-file-name="icheck.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/icheck/icheck.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="126" column="34" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="137" column="36" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="基础环境搭建.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基础环境搭建.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/UserController.java">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddressService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/AddressService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AreasService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/AreasService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1372">
-              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/EmployeeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="112">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectByExample</find>
+      <find>password</find>
+      <find>listData</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,24 +494,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/AreasService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/BrandServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/BrandService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/CitiesService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ContentCategoryServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/CommentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/CommentService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ContentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ContentService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/FreightTemplateServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/FreightTemplateService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/GoodsDescService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/GoodsService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/OrderItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/OrderItemService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/OrderService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/PayLogService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ProvincesService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/TypeTemplateServiceImpl.java" />
@@ -186,9 +515,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ProvincesController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/PayLogController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderItemController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemCatController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/GoodsController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/FreightTemplateController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ContentController.java" />
@@ -196,8 +523,28 @@
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/CommentController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/BrandController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/CitiesController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemCatService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/GoodsDescController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/ElasticSearchConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ElasticSearchConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/search_corp.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/ElasticSearchResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ElasticSearchController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-elastic.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/utils/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/chargeStore.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/js/icheck/icheck.min.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/js/jquery.js" />
       </list>
     </option>
   </component>
@@ -226,14 +573,15 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="200" />
-    <option name="y" value="195" />
-    <option name="width" value="1555" />
-    <option name="height" value="840" />
+    <option name="x" value="107" />
+    <option name="y" value="88" />
+    <option name="width" value="1245" />
+    <option name="height" value="675" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -241,9 +589,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,10 +614,51 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-CRUD-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-CRUD-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="linzhw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-CRUD-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="linzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-CRUD-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="linzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,16 +667,73 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\java\com\linzhw\crud\controller" />
-      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\java\com\linzhw\crud\service" />
-      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\java\com\linzhw\crud\utils" />
-      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\resources\mapper" />
-      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\java\com\linzhw\crud\dao" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.linzhw.crud.controller" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\webapp" />
+      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\webapp\static" />
+      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\resources" />
+      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\resources\mapper" />
+      <recent name="C:\Users\ll\Desktop\SSM-CRUD-master\src\main\java\com\linzhw\crud\controller" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="goods/findOne" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="149187842867922" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/resources" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -304,9 +747,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linzhw.crud.test.Test" />
+      <module name="ssm-crud" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linzhw.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in ssm-crud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm-crud" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -476,6 +947,17 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JUnit.All in ssm-crud" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.All in ssm-crud" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -490,7 +972,30 @@
       <workItem from="1557052131384" duration="1085000" />
       <workItem from="1557054692283" duration="9122000" />
       <workItem from="1557067637729" duration="4003000" />
-      <workItem from="1557071934214" duration="491000" />
+      <workItem from="1557071934214" duration="588000" />
+      <workItem from="1557120088634" duration="3293000" />
+      <workItem from="1557140886984" duration="5968000" />
+      <workItem from="1557156030946" duration="1099000" />
+      <workItem from="1557206958063" duration="1766000" />
+      <workItem from="1557239099133" duration="2183000" />
+      <workItem from="1557281607431" duration="614000" />
+      <workItem from="1557562069644" duration="6250000" />
+      <workItem from="1557584227962" duration="2411000" />
+      <workItem from="1557623411157" duration="8547000" />
+      <workItem from="1557723212925" duration="4038000" />
+      <workItem from="1557750006327" duration="652000" />
+      <workItem from="1557810280052" duration="599000" />
+      <workItem from="1557832116709" duration="3057000" />
+      <workItem from="1557886327669" duration="855000" />
+      <workItem from="1557890297004" duration="3167000" />
+      <workItem from="1557893837485" duration="1195000" />
+      <workItem from="1557903336088" duration="3008000" />
+      <workItem from="1557928006860" duration="327000" />
+      <workItem from="1558003392282" duration="1899000" />
+      <workItem from="1558056539623" duration="408000" />
+      <workItem from="1558098724637" duration="2607000" />
+      <workItem from="1558230065054" duration="606000" />
+      <workItem from="1558253381459" duration="6600000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1557071382038</created>
@@ -509,8 +1014,13 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_ssm-crud - 2019.05.11 at 22h 19m 44s.xml">
+      <configuration name="All in ssm-crud" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14467000" />
+    <option name="totallyTimeSpent" value="75947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -521,16 +1031,16 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.20303868" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.095703125" side_tool="true" weight="1.0" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28827587" />
-      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9042969" weight="0.24033149" />
+      <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -539,13 +1049,14 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49479166" weight="0.5538674" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="REST Client" order="13" visible="true" weight="0.14502762" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.30068967" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2941989" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,379 +1071,291 @@
     </ignored-roots>
     <MESSAGE value="初始化" />
     <MESSAGE value="时间" />
-    <option name="LAST_COMMIT_MESSAGE" value="时间" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/CitiesService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/TbItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="112">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ContentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/GoodsDescService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/GoodsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-784">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-430">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/PayLogService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ProvincesService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/OrderItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/SpecificationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/SeckillGoodsService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/SeckillOrderService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/SellerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/DepartmentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/TypeTemplateService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/SpecificationOptionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/FreightTemplateService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/TypeTemplateController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/SpecificationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/SeckillOrderController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/SeckillGoodsController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/SellerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="79" column="31" lean-forward="true" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ProvincesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/PayLogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ContentCategoryController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/CommentController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/AddressController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/AreasController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/BrandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/CitiesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="81" column="35" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ContentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/DepartmentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/FreightTemplateController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/GoodsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemCatService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemCatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/SpecificationOptionController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/AddressService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/AreasService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1372">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/EmployeeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/MapperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/MvcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/Msg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/TbBrand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/TbItemCat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/dao/TbItemCatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/ItemCatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/redis.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2772">
+          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/AreasController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/TbAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/dao/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/dao/TbCitiesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/DepartmentExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="80" column="29" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/GoodsDescController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="504">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_crud.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/ElasticSearchResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ElasticSearchController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/controller/ElasticSearchConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/ElasticSearchConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-elastic.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dbconfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/search_corp.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fdfs_client.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14084">
+          <caret line="503" column="18" selection-start-line="503" selection-start-column="18" selection-end-line="503" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/utils/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/项目简介.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcherServlet-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index-2.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/123.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#857#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/cart.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/icheck/icheck.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="126" column="34" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chargeStore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/global.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/jquery.cxselect.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="3" column="5868" selection-start-line="3" selection-start-column="5868" selection-end-line="3" selection-end-column="5868" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="137" column="36" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础环境搭建.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linzhw/crud/bean/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>

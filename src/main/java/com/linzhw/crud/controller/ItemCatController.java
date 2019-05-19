@@ -2,12 +2,14 @@ package com.linzhw.crud.controller;
 import java.util.List;
 
 import com.linzhw.crud.bean.TbItemCat;
+import com.linzhw.crud.bean.TbItemCatExample;
 import com.linzhw.crud.service.ItemCatService;
 import com.linzhw.crud.utils.PageResult;
 import com.linzhw.crud.utils.Result;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
@@ -110,5 +112,16 @@ public class ItemCatController {
 	public PageResult search(@RequestBody TbItemCat itemCat, int page, int rows  ){
 		return itemCatService.findPage(itemCat, page, rows);		
 	}
-	
+
+	/**
+	 * 查询一级目录
+	 * @return
+	 */
+	@RequestMapping("findItemCat")
+	public  List<TbItemCat> findItemCat( Long parent_id){
+		TbItemCatExample tbItemCatExample = new TbItemCatExample();
+		TbItemCatExample.Criteria criteria = tbItemCatExample.createCriteria();
+		criteria.andParentIdEqualTo(parent_id);
+		return  itemCatService.findByCondition(tbItemCatExample);
+	}
 }

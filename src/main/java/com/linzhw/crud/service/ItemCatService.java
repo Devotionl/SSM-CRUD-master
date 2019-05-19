@@ -30,7 +30,12 @@ public class ItemCatService {
 	public List<TbItemCat> findAll() {
 		return itemCatMapper.selectByExample(null);
 	}
-
+	/**
+	 * 按条件查询
+	 */
+	public List<TbItemCat> findByCondition(TbItemCatExample example){
+		return itemCatMapper.selectByExample(example);
+	}
 	/**
 	 * 按分页查询
 	 */
@@ -96,5 +101,6 @@ public class ItemCatService {
 		Page<TbItemCat> page= (Page<TbItemCat>)itemCatMapper.selectByExample(example);		
 		return new PageResult(page.getTotal(), page.getResult());
 	}
-	
+
+
 }

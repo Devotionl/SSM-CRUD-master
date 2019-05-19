@@ -21,7 +21,14 @@ public class OrderController {
 
 	@Autowired
 	private OrderService orderService;
-	
+	/**
+			* 返回全部列表
+	 * @return
+			 */
+	@RequestMapping("/findPage")
+	public PageResult findPage(int page, int rows){
+		return orderService.findPage(page, rows);
+	}
 	/**
 	 * 返回全部列表
 	 * @return
@@ -32,14 +39,7 @@ public class OrderController {
 	}
 	
 	
-	/**
-	 * 返回全部列表
-	 * @return
-	 */
-	@RequestMapping("/findPage")
-	public PageResult findPage(int page, int rows){
-		return orderService.findPage(page, rows);
-	}
+
 	
 	/**
 	 * 增加
